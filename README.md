@@ -28,9 +28,3 @@ A simple but powerful desktop app that gathers and exports key system informatio
 
 ---
 
-##  Setup Instructions
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/system-audit-tool.git
-   cd system-audit-tool
