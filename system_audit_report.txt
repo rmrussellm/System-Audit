@@ -1,0 +1,36 @@
+
+===============================
+SYSTEM AUDIT REPORT
+===============================
+
+OS Info: Windows-11-10.0.26100-SP0
+CPU: AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD
+RAM: 31.89 GB
+Disk: Total: 929.62 GB, Free: 357.09 GB
+Hostname/IP: DESKTOP-M996B4I - 192.168.0.62
+Uptime: 5 days, 1:21:41
+
+Installed Software:
+-------------------
+Name                                                                     
+
+Python 3.13.5 Add to Path (64-bit)                                       
+
+Python 3.13.5 Core Interpreter (64-bit)                                  
+
+Python 3.13.5 pip Bootstrap (64-bit)                                     
+
+Python Launcher                                                          
+
+Python 3.13.5 Executables (64-bit)                                       
+
+Python 3.13.5 Standard Library (64-bit)                                  
+
+Python 3.13.5 Tcl/Tk Support (64-bit)                                    
+
+Python 3.13.5 Documentation (64-bit)                                     
+
+Python 3.13.5 Test Suite (64-bit)                                        
+
+Python 3.13.5 Development Libraries (64-bit)                             
+
